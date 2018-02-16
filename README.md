@@ -1,6 +1,6 @@
 # **La Terminal**
 ---
-Es un MVP de una plataforma de venta y reserva de boletos de viaje vía terrestre. Diseñada para usuarios que buscan facilidad y rapidez en su compra.
+Es un MVP de venta y reserva de boletos de viaje vía terrestre. Diseñada para usuarios que buscan facilidad y rapidez.
 
 ## Elaborado para
 
