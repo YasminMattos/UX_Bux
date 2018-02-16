@@ -2,6 +2,8 @@
 ---
 La Terminal es un MVP de venta y reserva de boletos de viaje vía terrestre. Diseñada para usuarios que buscan facilidad y rapidez.
 
+![image](https://user-images.githubusercontent.com/32296818/36332155-0908d4ec-133f-11e8-8fea-8047235f70ab.png)
+
 ## Elaborado para
 
 [Laboratoria](http://www.laboratoria.la/)
