@@ -1,4 +1,4 @@
-# **La Terminal**
+# La Terminal
 ---
 La Terminal es una plataforma de venta y reserva de boletos de viaje vía terrestre. Diseñada para usuarios que buscan facilidad y rapidez.
 
