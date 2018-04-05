@@ -1,12 +1,11 @@
 # La Terminal
----
 La Terminal es una plataforma de venta y reserva de boletos de viaje vía terrestre. Diseñada para usuarios que buscan facilidad y rapidez.
 
 ![image](https://user-images.githubusercontent.com/32296818/36332155-0908d4ec-133f-11e8-8fea-8047235f70ab.png)
 
-## Elaborado para
+## Desarrollado para
 
-[Laboratoria](http://www.laboratoria.la/)
+[Laboratoria](http://www.laboratoria.la)
 
 ## **Objetivo:**
 
@@ -105,7 +104,7 @@ A partir los insights, se procedió a lo siguiente:
 
      ![](assets/documents/user-flow.png)
 
-# **MVP**
+## **MVP**
 -----
 
 - ### **Feature List:**
@@ -132,7 +131,7 @@ A partir los insights, se procedió a lo siguiente:
 
     * _Content Prototyping UXperts Versión 1 y 2:_  [Click](https://docs.google.com/document/d/1fhyF_XFbXCHkmn9zK0FfBFnAqS5JYaAb_LDYHZaELtc/edit)
 
-## **Prototyping y Testing**
+### **Prototyping y Testing**
 
 Se diseñó y testeó un primer prototipo de baja fidelidad.
 
